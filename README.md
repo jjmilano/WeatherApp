@@ -1,2 +1,2 @@
 # WeatherApp
- Weather page that tells you basic data about your weather.
+Simple webpage that give you the weather status.
